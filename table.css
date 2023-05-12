@@ -1,0 +1,33 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-left: 25%;
+
+}
+table{
+    border: 5px solid black;
+    border-radius: 20px;
+    border-collapse: collapse;
+    margin: 5px;
+    
+
+    border-color: rgb(137, 34, 233);
+    
+    
+}
+th{
+    background-color:rgb(23, 23, 86);
+    padding: 10px;
+    color: aliceblue;
+    
+}
+tr{
+    
+    background-color: aliceblue;
+}
+td{
+    padding: 10px;
+}
+.a{
+    background-color:rgb(243, 214, 176);
+}
